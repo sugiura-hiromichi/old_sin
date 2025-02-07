@@ -27,4 +27,6 @@ OSの役割は複数のサービスを並列で動作させる事
 
 # 1
 
-s
+## 環境構築
+
+[この記事](https://zenn.dev/satoken/articles/kozos-step-by-step) を参考に開発はローカル、ビルドや書き込みはDocker上でする
